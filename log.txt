@@ -1,0 +1,7 @@
+Jan 09, 2018 7:13:27 AM jsensor.Main run
+SEVERE: null
+java.lang.NullPointerException
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:54)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
